@@ -186,3 +186,12 @@ This project is open-source and can be used freely for educational and personal 
 ## Authors
 
 [@Chandra Sekhar Dutta](https://github.com/Chandra-Sekhar-Dutta): The author of this chat application project, responsible for the development of both the server and client-side code, implementing the Winsock-based socket communication, multithreading, and message broadcasting features. The author aims to provide a simple yet effective implementation of a TCP chat server and client using C++ for educational purposes.
+## Installation
+
+Install my-project
+
+```bash
+  git clone "https://github.com/Chandra-Sekhar-Dutta/Chatting-App-in-Cpp.git"
+  cd <your folder location>
+```
+    
