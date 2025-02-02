@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Programming\Visual Studio\Client2\main.cpp(34,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client2.vcxproj -> E:\Programming\Visual Studio\Client2\x64\Debug\Client2.exe
